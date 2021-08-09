@@ -28,6 +28,7 @@
 	<a href='https://www.php.net/'>
 		<img src='https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php' alt='PHP'>
 	</a>
-	
 </div>
 <hr>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dir.dir)
